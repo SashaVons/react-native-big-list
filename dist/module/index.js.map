@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["Animated","BigList","createAnimatedComponent"],"mappings":"AAAA,SAASA,QAAT,QAAyB,cAAzB;AAEA,OAAOC,OAAP,MAAoB,WAApB;AAEA,eAAeD,QAAQ,CAACE,uBAAT,CAAiCD,OAAjC,CAAf","sourcesContent":["import { Animated } from \"react-native\";\n\nimport BigList from \"./BigList\";\n\nexport default Animated.createAnimatedComponent(BigList);\n"]}
